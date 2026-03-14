@@ -1,4 +1,4 @@
-![Ayush Das](https://raw.githubusercontent.com/byayushdas/byayushdas/main/fullbanner.svg)
+![Ayush Das](https://raw.githubusercontent.com/byayushdas/byayushdas/main/badge.svg)
 ## Skills
 
 ### Languages & Frameworks
