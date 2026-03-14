@@ -49,4 +49,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=byayushdas&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 </div>
+
+---
+
 ![Footer](https://raw.githubusercontent.com/byayushdas/byayushdas/main/badge.svg)
