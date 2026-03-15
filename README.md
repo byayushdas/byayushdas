@@ -1,4 +1,4 @@
-![Ayush Das](https://raw.githubusercontent.com/byayushdas/byayushdas/main/banner.svg)
+![Ayush Das](https://raw.githubusercontent.com/byayushdas/byayushdas/main/badge.svg)
 ---
 ## Skills
 
@@ -52,5 +52,3 @@
 </div>
 
 ---
-
-![Footer](https://raw.githubusercontent.com/byayushdas/byayushdas/main/badge.svg)
