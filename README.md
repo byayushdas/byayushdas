@@ -1,4 +1,5 @@
 ![Ayush Das](https://raw.githubusercontent.com/byayushdas/byayushdas/main/banner.svg)
+---
 ## Skills
 
 ### Languages & Frameworks
