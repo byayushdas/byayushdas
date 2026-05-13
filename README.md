@@ -79,7 +79,7 @@ const ayush = {
 
 <div align="center">
 
-![Snake animation](https://github.com/ayush/ayush/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/byayushdas/byayushdas/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -114,7 +114,7 @@ const ayush = {
 
 ### 💸 *"Don't count the days, make the days count."* 💸
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayush&color=00C853&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=byayushdas&color=00C853&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:00C853&height=120&section=footer" width="100%" />
 
