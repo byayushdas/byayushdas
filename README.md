@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- MONEY BANNER -->
-<img src="./money_banner.png" alt="Banner" width="100%" />
+<img src="./money_banner.png" alt="Banner" width="100%" />  
   
 # 💸 Hey, I'm **Ayush** 💸
 
