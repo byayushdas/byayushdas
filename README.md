@@ -3,7 +3,7 @@
 <!-- MONEY BANNER -->
 <img src="./money_banner.png" alt="Banner" width="100%" />  
   
-# 💸 Hey, I'm **Ayush** 💸
+# 💸 Hey, I'm **Ayush** 💸 
 
 ### *Turning coffee into code & code into currency* ☕💰
 
