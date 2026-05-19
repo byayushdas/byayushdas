@@ -1,5 +1,6 @@
 <div align="center">
 
+  
 <!-- MONEY BANNER -->
 <img src="./money_banner.png" alt="Banner" width="100%" />  
   
